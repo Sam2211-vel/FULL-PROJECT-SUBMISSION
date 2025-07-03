@@ -36,10 +36,6 @@ E-Waste-Classification-Project/
  Optional Notes for Report:
 main notebook: Combine all features in one place (.ipynb)
 
-upload_predict.py: Use for browser-based upload
-
-webcam_predict.py: Use for live webcam image prediction
-
 samples/: Used by VR-gesture script to classify based on hand signals
 
 utils/: Makes code modular, reusable, and readable
