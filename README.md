@@ -1,4 +1,4 @@
-# FULL-PROJECT-SUBMISSION
+# FULL-PROJECT-SUBMISSION SIZE IS 125 MB IS NOT SUPPORTED TO GITHUB SO ONLY( IPYNB FILE) IS UPLOADED
 E-Waste-Classification-Project/
 Main directory containing the full AI-based e-waste classification system.
 
